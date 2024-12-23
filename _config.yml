@@ -1,5 +1,5 @@
-title: Muhammad Fahad Khann
+title: Muhammad Fahad Khan
 logo: /assets/fahad_circular.png
-description: text below image
-show_downloads: true
+#description: text below image
+show_downloads: false
 theme: jekyll-theme-minimal
