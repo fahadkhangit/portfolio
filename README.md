@@ -1,20 +1,3 @@
-# Portfolio
-- [About me](#about-me)
-- [Professional Experience](#professional-experience)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Tools](#tools)
-- [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Education](#education)
-- [Courses](#courses)
-- [Books I have read](#books-i-have-read)
-- [CV](#cv)
-- [Contact](#contact)
-
 # Senior Software Quality Assurance Engineer  
 
 Welcome to my portfolio! I am an ISTQB-certified Senior SQA Engineer with 3+ years of experience in manual and automation testing. I specialize in delivering high-quality software solutions in E-commerce and Media & Entertainment/Streaming Services.  
