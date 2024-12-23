@@ -1,55 +1,103 @@
-# Data Scientist
+# Senior Software Quality Assurance Engineer  
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Welcome to my portfolio! I am an ISTQB-certified Senior SQA Engineer with 3+ years of experience in manual and automation testing. I specialize in delivering high-quality software solutions in E-commerce and Media & Entertainment/Streaming Services.  
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+---
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+## About Me  
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+I bring a versatile skill set in:  
+- **Cypress Automation Testing** (JavaScript and Page Object Model)  
+- **API Testing** (Postman, API chaining, and regression testing)  
+- **Functional Testing** (Smoke, Regression, Integration, UAT)  
+- **Performance Testing** (using JMeter)  
+- **Database Testing** (using MySQL at a basic level)  
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+I am experienced in creating comprehensive test plans, writing detailed test cases, and ensuring robust quality assurance processes through bug tracking and Agile methodologies.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+---
 
+## Technical Skills  
 
+- **Software Testing**: Manual Testing, Automation Testing, API Testing, Performance Testing  
+- **Programming Languages**: JavaScript, SQL, Python, C++  
+- **Testing Tools**: Postman, Cypress, JMeter, MySQL, GitLab, JIRA, TestRail, Kiwi TCMs  
+- **Additional Tools**: Sentry, Grafana, App Smith  
+- **Testing Methodology**: Agile - Scrum  
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Professional Experience  
 
+### **OneStream Live** (Sep 2022 – Present) | Remote - Finland  
+- Conducted Postman API testing for 300+ API endpoints in large-scale projects.  
+- Enhanced automation test scripts using Cypress with POM methodology.  
+- Created 500+ detailed test cases for thorough coverage.  
+- Executed weekly regression and smoke testing for projects with 80,000+ lines of code.  
+- Authored detailed release notes highlighting bug fixes and new features.  
+- Performed load and stress testing using JMeter to evaluate performance.  
 
+### **DaanXL** (Aug 2021 – Sep 2022) | Remote - Netherlands  
+- Developed 250+ test cases for global e-commerce platforms.  
+- Performed system integration testing to verify seamless third-party integrations.  
+- Conducted regular regression and smoke testing to ensure product stability.  
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+### **Pakistan Ordnance Factories** (Jul 2018 – Aug 2018) | Wah Cantt, Pakistan  
+- Gained foundational knowledge of SCADA systems and network operations during an internship.  
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+---
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+## Projects  
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### **OneStream Live Studio**  
+- Designed and implemented comprehensive test plans and 500+ test cases.  
+- Collaborated with developers and product managers to resolve 350+ defects.  
+- Conducted cross-browser and cross-platform testing for compatibility.  
+- Utilized Sentry for error tracking, uncovering 60+ hidden issues.  
+
+### **OneStream Live Web App**  
+- Automated multiple workflows and web pages using Cypress with POM methodology, boosting test coverage by 35% and reducing manual testing by 25%.  
+- Monitored streaming logs using Grafana to ensure optimal performance.  
+
+### **OneStream Live API Testing**  
+- Detected critical API defects in a system with 100,000+ users, improving quality and user experience.  
+- Automated API testing processes using Postman for 300+ endpoints.  
+- Conducted load and stress testing with JMeter for performance evaluation.  
+
+### **E-commerce Website Automation**  
+- Automated website testing using Cypress with OOP POM methodology, achieving 75% test coverage.  
+- Integrated CI/CD workflows via GitHub Actions for seamless testing pipelines.  
+
+---
+
+## Certifications  
+
+- **ISTQB Certified Tester Foundation Level (CTFL)**  
+- **Postman REST API Testing Masterclass** - Udemy  
+- **Cypress Automation Testing** - Udemy  
+- **Agile Testing and Selenium Essential Training** - LinkedIn Learning  
+
+---
+
+## Education  
+
+- **B.S. in Electrical Engineering** - AIR University, Islamabad (2015-2019)  
+- **Intermediate in Pre-Engineering** - FG Degree College for Men, Wah Cantt (2013-2015)  
+- **Matriculation in Science** - POF Model High School, Wah Cantt (2011-2013)  
+
+---
+
+## Hobbies and Interests  
+
+- Trekking and Touring  
+- Book Reading  
+
+---
+
+## Contact  
+
+- **Email**: sqafahad@gmail.com  
+- **Phone**: (+92)-307-5134899  
+- **LinkedIn**: [linkedin.com/in/sqafahad](https://linkedin.com/in/sqafahad)  
+
+Feel free to explore my portfolio and connect with me!
